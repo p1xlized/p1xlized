@@ -1,15 +1,8 @@
-### Hi there 👋
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
-
-# Hello, World! 👋
-
-## About Me
-
-🚀 Full Stack Developer | 🎵 Musician | 🐧 Linux Enthusiast
+## 🚀 Full Stack Developer | 🎵 Musician | 🐧 Linux Enthusiast
 
 I'm Alex (p1xlized), a dedicated full-stack developer skilled in both backend and frontend technologies. When not crafting code, I'm creating harmonies as a musician.
 
-## Tech Stack
+### Tech Stack
 
 - 💻 **Backend:** Express, Knex, Apollo Server, GraphQl
 - 🌐 **Frontend:** React, VueJS
@@ -18,14 +11,14 @@ I'm Alex (p1xlized), a dedicated full-stack developer skilled in both backend an
 - ✨ **Tools:** LunarVim and VScodium
 - 🎶 **DAW**: Bitwig Studio
 
-## Let's Connect!
+### Let's Connect!
 
 - 🌐 [Portfolio](YourPortfolioLink)
 - 🎶 [Music on SoundCloud](YourSoundCloudLink)
 - 📷 [Instagram](YourInstagramLink)
 - 🐦 [Twitter](YourTwitterLink)
 
-To the Moon! 🚀
+####To the Moon! 🚀
 
 
 
