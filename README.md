@@ -7,15 +7,16 @@
 
 🚀 Full Stack Developer | 🎵 Musician | 🐧 Linux Enthusiast
 
-Hi there! I'm [Your Name], a passionate full-stack developer with a love for both backend and frontend development. My journey in the world of technology is accompanied by the rhythm of music, as I'm also a musician creating harmonies in code and melodies in music.
+I'm Alex (p1xlized), a dedicated full-stack developer skilled in both backend and frontend technologies. When not crafting code, I'm creating harmonies as a musician.
 
 ## Tech Stack
 
-- 💻 **Backend:** Express, Knex, Apollo Server
+- 💻 **Backend:** Express, Knex, Apollo Server, GraphQl
 - 🌐 **Frontend:** React, VueJS
-- 🐳 **OS:** Linux (openSUSE Micro OS)
+- 🐧 **OS:** Linux (openSUSE Micro OS)
 - 📱 **Currently Learning:** Android App Development
-- ✨ **Tools:** Vim enthusiast
+- ✨ **Tools:** LunarVim and VScodium
+- 🎶 **DAW**: Bitwig Studio
 
 ## Let's Connect!
 
@@ -24,18 +25,7 @@ Hi there! I'm [Your Name], a passionate full-stack developer with a love for bot
 - 📷 [Instagram](YourInstagramLink)
 - 🐦 [Twitter](YourTwitterLink)
 
-Feel free to explore my repositories, and let's collaborate on some exciting projects! 🚀
+To the Moon! 🚀
 
-**p1xlized/p1xlized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
