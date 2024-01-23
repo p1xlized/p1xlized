@@ -1,8 +1,10 @@
+```
  / \--------------------------, 
  \_,|                         | 
     |    Welcome TO MY PAGE   | 
     |  ,------------------------
-    \_/_______________________/ 
+    \_/_______________________/
+```
 I'm Alex (p1xlized), a dedicated full-stack developer skilled in both backend and frontend technologies.I'am good at using obscure thing and obscure config, then complain that tere is no help on the forums
 ### Tech Stack
 
