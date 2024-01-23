@@ -1,38 +1,24 @@
+# Hi, I'm Alex (p1xlized)! 👋
 
-I'm Alex (p1xlized), a dedicated full-stack developer skilled in both backend and frontend technologies.I'am good at using obscure thing and obscure config, then complain that tere is no help on the forums
-### Tech Stack
+I'm a full-stack developer who loves diving into the nitty-gritty of both backend and frontend tech. I enjoy tinkering with all sorts of tools and settings, figuring out solutions to tricky problems. You might find me breaking something and, when things get tough, venting in online forums – all part of the developer's journey, you know? 😉
+
+## My Toolbox 🧰
 
 - 💻 **Backend:** Express, Knex, Apollo Server, GraphQL
 - 🌐 **Frontend:** React, VueJS, React Native
 - 🐧 **OS:** Linux (openSUSE Micro OS)
-- 📱 **Currently Learning:** Android App Development, Vim
-- 🔨 **Text Editor:** LunarVim, VScodium
-- 📑 **Notes**: Obsidian
-- 🎶 **DAW**: Bitwig Studio
+- 📱 **Learning:** Android App Development, Vim
+- 🔨 **Tools:** LunarVim, VScodium
+- 📑 **Notes:** Obsidian
+- 🎶 **Music Tools:** Bitwig Studio
 
-```
-   .    _  .     _____________
-   |\_|/__/|    /             \
-  / / \/ \  \  / Linux is better\
- /__|O||O|__ \ \ that Windows   /
-|/_ \_/\_/ _\ | \  ___________/
-| | (____) | ||  |/
-\/\___/\__/  // _/
-(_/         ||
- |          ||\
-  \        //_/ 
-   \______//
-  __|| __||
- (____(____)
-```
-### Let's Connect!
+## Let's Connect!
 
 - 🌐 [Portfolio](YourPortfolioLink)
-- 🎶 [Music on SoundCloud](YourSoundCloudLink)
+- 🎶 [SoundCloud](YourSoundCloudLink)
 - 📷 [Instagram](YourInstagramLink)
 - 🐦 [Twitter](YourTwitterLink)
 
-#### To the Moon! 🚀
-
+### To the Moon! 🚀
 
 
