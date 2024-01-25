@@ -6,7 +6,7 @@ I'm a full-stack developer who loves diving into the nitty-gritty of both backen
 - 💻 **Backend:** Express, Knex, Apollo Server, GraphQL
 - 🌐 **Frontend:** React, VueJS, React Native
 - 🐧 **OS:** Linux (openSUSE Micro OS)
-- 📱 **Learning:** Android App Development, Vim
+- 📱 **Learning:** NeoVim, Kubernetes, Rust
 - 🔨 **Tools:** LunarVim, VSCode (vscodium)
 - 📑 **Notes:** Obsidian
 - 🎶 **Music Tools:** Bitwig Studio
