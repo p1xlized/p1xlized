@@ -7,7 +7,7 @@ I'm a full-stack developer who loves diving into the nitty-gritty of both backen
 - 🌐 **Frontend:** React, VueJS, React Native
 - 🐧 **OS:** Linux (openSUSE Micro OS)
 - 📱 **Learning:** Android App Development, Vim
-- 🔨 **Tools:** LunarVim, VScodium
+- 🔨 **Tools:** LunarVim, VSCODIUM
 - 📑 **Notes:** Obsidian
 - 🎶 **Music Tools:** Bitwig Studio
 ### To the Moon! 🚀
