@@ -3,6 +3,7 @@
 I'm a full-stack developer who loves diving into the nitty-gritty of both backend and frontend tech. I enjoy tinkering with all sorts of tools and settings, figuring out solutions to tricky problems.
  
 ### 🔨 My Toolbox 
+``
      🚀 Backend Tools: Express, Knex, Apollo Server, GraphQL, Supabase and Firebase
      🌐 Frontend Tools: React, VueJS, React Native
      📑 Learning: NeoVim, Kubernetes, Rust
@@ -13,6 +14,7 @@ I'm a full-stack developer who loves diving into the nitty-gritty of both backen
      👾 Terminal: Alacritty and BlackBox
 
 ### 💻 My Rig 
+``
      💻 CPU: AMD Ryzen 5 3600
      🧠 Memory: 32GB Corsair Vengeance RAM @ 3600MHz
      🎮 GPU: Radeon RX 6600 XT 8GB
