@@ -18,7 +18,7 @@ I'm a full-stack developer who loves diving into the nitty-gritty of both backen
 - 🧠 **Memory:** 32GB Corsair Vengeance RAM @ 3600MHz
 - 🎮 **GPU:** Radeon RX 6600 XT 8GB
 - ⚡ **PSU:** Cooler Master 650W SFX
-- 🌬️ **Cooling:** Cooler Master NR200P Case
+- 📺 **Case:** Cooler Master NR200P Case
 - 🕹️ **OS:** Linux (openSUSE Micro OS)
 
 ### To the Moon! 🚀
