@@ -13,13 +13,13 @@ I'm a full-stack developer who loves diving into the nitty-gritty of both backen
 - 👾 **Terminal:** Alacritty and BlackBox
 
 ### 💻 My Rig
-
-- 💻 **CPU:** AMD Ryzen 5 3600
-- 🧠 **Memory:** 32GB Corsair Vengeance RAM @ 3600MHz
-- 🎮 **GPU:** Radeon RX 6600 XT 8GB
-- ⚡ **PSU:** Cooler Master 650W SFX
-- 📺 **Case:** Cooler Master NR200P Case
+Currently i"m using ASUS ROG Zephyrus G14 laptop
+- 💻 **CPU:** AMD Ryzen™ 7 4800HS
+- 🧠 **Memory:** 16GB RAM
+- 🎮 **GPU:** NVIDIA GeForce RTX 2060 Max-Q 
 - 🕹️ **OS:** Linux (openSUSE Micro OS)
+- 🎹 **Keyboard:** Keychron K3
+- 🎯**Mice:** Glorious Model O Wireless
 
 ### To the Moon! 🚀
 
