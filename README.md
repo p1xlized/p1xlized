@@ -10,7 +10,7 @@ I'm a full-stack developer who loves diving into the nitty-gritty of both backen
 - 🔨 **Development Environment:** LunarVim, VSCode (VSCodium)
 - 📑 **Notes:** Obsidian
 - 🎶 **Music Tools:** Bitwig Studio
-- 👾 **Terminal:** Kitty
+- 👾 **Terminal:** Kitty😼
 
 ### 💻 My Rig
 Currently i"m using ASUS ROG Zephyrus G14 laptop
