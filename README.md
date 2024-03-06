@@ -6,7 +6,7 @@ I'm a full-stack developer who loves diving into the nitty-gritty of both backen
 
 - 🚀 **Backend Tools:** Express, Knex, Apollo Server, GraphQL, Supabase and Firebase
 - 🌐 **Frontend Tools:** React, VueJS, React Native
-- 📑 **Learning:** Flutter, Rust, Godot
+- 📑 **Learning:** Flutter, Rust, GOLANG
 - 🔨 **Development Environment:** LunarVim, VSCode (VSCodium)
 - 📑 **Notes:** Obsidian
 - 🎶 **Music Tools:** Bitwig Studio
