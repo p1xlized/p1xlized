@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo"  />
   <img width="12" />
-  <img src="https://jmp.sh/h4dGaZEW" height="40" alt="elysia logo"  />
+  <img src="https://pouch.jumpshare.com/preview/KBNM6a3OvW8-ZUk__ldM2a8Q5oDXPDRcFByoFSfHH1ZmQTv_pbxGeul0K4OnLSSLFEUfNz52Xoc89gpchBrOHsZ17lneJT6TiOmdE_GS0QE" height="40" alt="elysia logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
