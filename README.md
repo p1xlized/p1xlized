@@ -4,10 +4,10 @@ I'm a full-stack developer who loves diving into the nitty-gritty of both backen
 
 ### 🔨 My Toolbox
 
-- 🚀 **Backend Tools:** Express, Knex, Apollo Server, GraphQL, Supabase and Firebase
-- 🌐 **Frontend Tools:** React, VueJS, React Native
-- 📑 **Learning:** Flutter, Rust, GOLANG
-- 🔨 **Development Environment:** LunarVim, VSCode (VSCodium)
+- 🚀 **Backend Tools:** Drizzle, Bun, Elysia, GraphQL, Supabase and Firebase
+- 🌐 **Frontend Tools:** React, SolidKit, SvelteKIt, Flutter
+- 📑 **Learning:** Rust, GOLANG,Godot
+- 🔨 **Development Environment:** Zed, VSCode (VSCodium)
 - 📑 **Notes:** Obsidian
 - 🎶 **Music Tools:** Bitwig Studio
 - 👾 **Terminal:** Kitty😼
