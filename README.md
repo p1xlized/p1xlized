@@ -29,6 +29,8 @@
   <img width="12" />
   <img src="https://pouch.jumpshare.com/preview/KBNM6a3OvW8-ZUk__ldM2a8Q5oDXPDRcFByoFSfHH1ZmQTv_pbxGeul0K4OnLSSLFEUfNz52Xoc89gpchBrOHsZ17lneJT6TiOmdE_GS0QE" height="40" alt="elysia logo"  />
   <img width="12" />
+  <img src="https://pouch.jumpshare.com/preview/IXwZQFdHlXtRjDmO7cCpbHYAvWidFCiBP5srbcD4p3V3uzLoUxhOf2bRLb7WZtgwXOg09hEWfZVgFgPBoOaI-rFKSTbSjKt724VR92kUg9M" height="40" alt="drizzle logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
