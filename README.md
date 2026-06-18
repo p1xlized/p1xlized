@@ -14,6 +14,8 @@ I build high-performance interactive experiences and scalable digital tools. Als
 - Portfolio: p1xlized.net
 - Contact: apaduret@pixlized.net
 - Music/Creative: Find my music here
+
 ---
+
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
