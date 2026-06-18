@@ -27,7 +27,7 @@ I build high-performance interactive experiences and scalable digital tools. Als
 
 ### 📊 Metrics
 <!-- card_width=800 stretches the stats to fill the space -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p1xlizedE&show_icons=true&theme=radical&card_width=800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p1xlized&show_icons=true&theme=radical&card_width=800)
 
 <!-- WakaTime stats marker -->
 <!-- START_SECTION:waka -->
