@@ -17,5 +17,5 @@ I build high-performance interactive experiences and scalable digital tools. Als
 
 ---
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<!-- START_SECTION:WAKA -->
+<!-- END_SECTION:WAKA -->
