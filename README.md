@@ -14,5 +14,6 @@ I build high-performance interactive experiences and scalable digital tools. Als
 - Portfolio: p1xlized.net
 - Contact: apaduret@pixlized.net
 - Music/Creative: Find my music here
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=p1xlized&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p1xlized&layout=compact&theme=radical)
