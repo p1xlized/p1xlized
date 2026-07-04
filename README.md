@@ -25,10 +25,7 @@ I build high-performance interactive experiences and scalable digital tools. Als
 
 ---
 
-### 📊 Metrics
-<!-- card_width=800 stretches the stats to fill the space -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=p1xlized&show_icons=true&theme=radical&card_width=800)
-
-<!-- WakaTime stats marker -->
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=p1xlized&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=p1xlized&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=p1xlized&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
