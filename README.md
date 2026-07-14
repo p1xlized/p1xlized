@@ -27,5 +27,5 @@ I build high-performance interactive experiences and scalable digital tools. Als
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=p1xlized&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=p1xlized&theme=transparent&hide_border=true)<br/>
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=p1xlized&theme=dark)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=p1xlized&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
